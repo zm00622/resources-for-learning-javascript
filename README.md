@@ -16,17 +16,7 @@ If the tutorials above seem hard or boring, then read the following book:
 
 The easiest and perhaps the fastest way to learn JavaScript (and be hireable), is to simply complete this book: Head First JavaScript Programming - A Brain Friendly Guide
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/56224858/127067914-5d9150cd-fa41-42b8-be75-75377050bae0.jpeg"></img>
 
 
 
