@@ -27,21 +27,15 @@ When I was learning JavaScript, I bought at-least 5 different entry-level JavaSc
 *****
 
 
-
-
-
 Understanding the Bigger Picture
 
-The picture below this page represents a road map to show you the path you need to follow in order to be a front-end developer. Here is a link to download the roadmap (i.e., flow chart) into a pdf: 
+Below is a road map to show you the path you need to follow in order to be a front-end developer. Here is a link to download the roadmap (i.e., flow chart) into a pdf: 
 
 https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png?year-2021-2 
 
 The further you go down this roadmap on your own, the more hireable you will be. 
 
-
-<img src="https://user-images.githubusercontent.com/56224858/127068643-e1dbd075-1897-42c8-ad5c-3d3650bf0ca0.png"></img>
-
-Other Top Resources
+Other Top Resources:
 
 _________________________________
 
