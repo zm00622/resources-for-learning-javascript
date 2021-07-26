@@ -39,6 +39,8 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png?
 The further you go down this roadmap on your own, the more hireable you will be. 
 
 
+<img src="https://user-images.githubusercontent.com/56224858/127068643-e1dbd075-1897-42c8-ad5c-3d3650bf0ca0.png"></img>
+
 Other Top Resources
 
 _________________________________
