@@ -1,7 +1,5 @@
 # resources-for-learning-javascript
 
-This course has been revised to minimize the amount of time it takes to make you a hireable Front-End Developer.
-
 *****
 
 Follow these online tutorials in order:
