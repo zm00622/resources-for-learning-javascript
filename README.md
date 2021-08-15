@@ -1,6 +1,6 @@
 # resources-for-learning-javascript
 
-This course has been revised to minimize the amount of time it takes to make you a hireable Front-End React JavaScript developer.
+This course has been revised to minimize the amount of time it takes to make you a hireable Front-End Developer.
 
 *****
 
