@@ -153,5 +153,24 @@ Keyboard Shortcuts to Speed up Workflow
 Game
 https://mattshaw.org/projects/shortcutgame/
 
-Visual Studio Keyboard Shortcuts
+Visual Studio Code Keyboard Shortcuts
 https://hackernoon.com/12-visual-studio-code-shortcuts-for-faster-coding-ts3a3yvg
+
+My Favorite VS Code Shortcuts
+
+Delete Line: Shift - Command - K
+Add Line Comment: Command - K Command - C
+Remove Line Comment: Command - K Command - U
+Find and Replace: Option - Command - F
+Zen Mode: Command - K - Z (exit by hitting esc esc)
+Open Terminal: Control ^ - Backtick
+
+Insert Line Above: Shift - Command - Enter
+Insert Line Below: Shift - Command
+Indent Line: Command - ]
+Outdent Line: Command - [
+Beginning of Line: fn + left arrow
+End of Line: fn + right arrow
+Beginning / End of File: Command + Up / Down Arrow
+
+_____________________________________
