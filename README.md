@@ -195,3 +195,12 @@ End of Line: fn + right arrow
 Beginning / End of File: Command + Up / Down Arrow
 
 _____________________________________
+
+**Stacks Explained** 
+
+What do MAMP, LAMP, MEAN and all of those other acronyms mean?
+
+https://en.wikipedia.org/wiki/Solution_stack
+
+Learning a stack would make you a Full-Stack developer
+_____________________________________
