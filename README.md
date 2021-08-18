@@ -34,6 +34,7 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png?
 The further you go down this roadmap on your own, the more hireable you will be. 
 
 The 10 Minute Road Map:
+
 This article list the skills needed to become a Front-End and/or Back-End Developer
 https://www.freecodecamp.org/news/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48/
 
