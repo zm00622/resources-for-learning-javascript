@@ -118,6 +118,7 @@ http://phpfiddle.org/
 ________________________________
 
 Sites to Acquire Certifications:
+
 FreeCodeCamp
 
 Udemy
@@ -135,14 +136,16 @@ _________________________________
 
 Graphic Design:
 
-Free Stock Photo Resources
+Free Stock Photo Resources--
+
 Pixabay
-            https://pixabay.com/
+https://pixabay.com/
 
 Pexel
-            https://www.pexels.com/
+https://www.pexels.com/
 
-Editing Software
+Editing Software--
+
 photopea
 https://www.photopea.com/
 
