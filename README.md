@@ -1,5 +1,14 @@
 # resources-for-learning-javascript
 
+**Schedule Private Lessons with Zary**
+
+Wyzant Tutoring Platform:
+
+Discount Link-
+
+https://is.gd/GtSZ8c
+
+
 *****
 
 Follow these online tutorials in order:
@@ -210,3 +219,11 @@ https://en.wikipedia.org/wiki/Solution_stack
 
 Learning a stack would make you a Full-Stack developer
 _____________________________________
+
+**Schedule Private Lessons with Zary**
+
+Wyzant Tutoring Platform:
+
+Discount Link-
+
+https://is.gd/GtSZ8c
