@@ -218,6 +218,18 @@ What do MAMP, LAMP, MEAN and all of those other acronyms mean?
 https://en.wikipedia.org/wiki/Solution_stack
 
 Learning a stack would make you a Full-Stack developer
+
+_____________________________________
+
+**Event Bubbling Explained**
+
+https://www.youtube.com/watch?v=SqQZ8SttQsI
+
+____________________________________
+
+**Working with Data and API's in JavaScript**
+
+https://youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
 _____________________________________
 
 **Schedule Private Lessons with Zary**
