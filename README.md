@@ -221,10 +221,17 @@ Learning a stack would make you a Full-Stack developer
 
 _____________________________________
 
-**Event Bubbling Explained**
+**Event Bubbling vs. Capturing Explained**
 
+Spimple Explanation
+https://www.youtube.com/watch?v=Q6HAJ6bz7bY&t=245
+
+More complicated but practical use case
 https://www.youtube.com/watch?v=SqQZ8SttQsI
 
+Bubbling will bubble up from child elements to the parent element.
+
+Capturing will bubble down from parent element to the child element.
 ____________________________________
 
 **Working with Data and API's in JavaScript**
