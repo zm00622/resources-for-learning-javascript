@@ -209,6 +209,14 @@ End of Line: fn + right arrow
 
 Beginning / End of File: Command + Up / Down Arrow
 
+Keyboard Shortcut Games:
+https://www.shortcutfoo.com/app/dojos/vscode-mac
+
+Keyboard Shortcut Games:
+https://www.shortcutfoo.com/app/dojos/command-line/system-basic/practice
+
+
+
 _____________________________________
 
 **Stacks Explained** 
