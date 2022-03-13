@@ -253,6 +253,11 @@ https://en.wikipedia.org/wiki/Representational_state_transfer
 
 _____________________________________
 
+Command Line Game
+
+https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+_____________________________________
+
 **Schedule Private Lessons with Zary**
 
 Wyzant Tutoring Platform:
